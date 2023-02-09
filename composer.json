@@ -1,0 +1,15 @@
+{
+    "name": "duivr/wisdom-diala",
+    "autoload": {
+        "psr-4": {
+            "Duivr\\WisdomDiala\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lestruviens",
+            "email": "admin@lestruviens.com"
+        }
+    ],
+    "require": {}
+}
